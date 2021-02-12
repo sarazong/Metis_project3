@@ -1,6 +1,7 @@
 ## Metis_project3: predicting flight delay
 ### Description:
-Being stranded at the airport is one of those horrible experiences (tiredness, frustration, and boredom) you would want to avoid. I once got stuck at the airport overnight, and I never booked with the same airline again. Moreover, if we are traveling on a tight business schedule, we would want to have more control over our schedule. This project is trying to build a model that predicts flight delay so travelers could better plan their trips.
+Being stranded at the airport is one of those horrible experiences (tiredness, frustration, and boredom) we all want to avoid (I once got stuck at the airport overnight, and I never booked with the same airline again). Moreover, if we are traveling on a tight business schedule, we would want to have more control over our schedule. This project is trying to build a model that predicts flight delay so travelers could better plan their trips.
+
 ![ ](https://github.com/sarazong/Metis_project3/blob/main/images/flight_delay.jpg)
 
 ### Features:
